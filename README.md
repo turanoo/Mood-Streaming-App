@@ -8,4 +8,13 @@
 
 # Mood-Streaming-App
 
-This a demo for a music streaming app that we are designing for our Software Engineering class at Northern Arizona University
+This a demo for a music streaming app that we are designing for our Software Engineering class at Northern Arizona University.
+
+### Project Contributers
+- Turan Naimey
+- Austin Collins
+- Austin Torrence
+- Karsten Nguyen
+- Mike Ewans
+
+
